@@ -5,7 +5,7 @@
 // The admin flag to track: 1 - All admins, flag values: abcdefghijklmnopqrst
 // -
 // Default: "1"
-sm_adminwatch_adminflag "b"
+sm_adminwatch_adminflag "1"
 
 // Enables or disables the plugin: 0 - Disabled, 1 - Enabled
 // -
@@ -26,6 +26,6 @@ sm_adminwatch_logging "1"
 // Default: "0"
 // Minimum: "0.000000"
 // Maximum: "1.000000"
-sm_adminwatch_precision "1"
+sm_adminwatch_precision "0"
 
 
