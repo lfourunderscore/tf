@@ -1,8 +1,15 @@
-hostname "FAMILY BUSINESS"
+hostname "24/7 KillSurf | Divinity-community.com"
 rcon_password "Le Piano"
 sv_contact "noting"
 mp_timelimit "60" 
-sv_allowdownload
-sv_downloadurl https://github.com/lfourunderscore/maps
-net_maxfilesize 64
+sv_allowupload 1
+sv_allowdownload 1
+sv_downloadurl "http://dl.openfastdl.net/tf"
 sm_cvar sv_airaccelerate 1500
+sm_trailme_enabled 1
+sm_hr_adminflag o
+tf_allow_player_use 1
+sv_allow_votes 0
+tf_forced_holiday 2
+tf_weapon_criticals 0
+tf_avoidteammates_pushaway 0
